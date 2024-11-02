@@ -1,6 +1,4 @@
-###  Hello!
----
-I'm Aditya Sengupta, a student at The University of Maryland College Park 
+
 
 [![](https://img.shields.io/badge/-%20Website-FFF)](https://adityasengupta.com)
 
